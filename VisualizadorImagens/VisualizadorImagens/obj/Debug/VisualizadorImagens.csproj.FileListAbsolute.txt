@@ -1,0 +1,10 @@
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\bin\Debug\VisualizadorImagens.exe.config
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\bin\Debug\VisualizadorImagens.exe
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\bin\Debug\VisualizadorImagens.pdb
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\obj\Debug\VisualizadorImagens.csproj.AssemblyReference.cache
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\obj\Debug\VisualizadorImagens.VisualizadorImagens.resources
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\obj\Debug\VisualizadorImagens.Properties.Resources.resources
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\obj\Debug\VisualizadorImagens.csproj.GenerateResource.cache
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\obj\Debug\VisualizadorImagens.csproj.CoreCompileInputs.cache
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\obj\Debug\VisualizadorImagens.exe
+C:\Users\Contel\source\repos\VisualizadorImagens\VisualizadorImagens\obj\Debug\VisualizadorImagens.pdb
